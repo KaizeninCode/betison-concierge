@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+@theme inline {
+  --color-background: #f3ecd9;
+  --color-brand-gold: #d4b462;
+  --color-brand-green: #0e4a35;
+  --font-garamond: var(--font-garamond);
+  --font-poppins: var(--font-poppins);
+}
+
